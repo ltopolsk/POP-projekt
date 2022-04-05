@@ -1,10 +1,10 @@
 # POP projekt
 
-Autorzy:
+## Autorzy:
  <li> Łukasz Topolski
  <li> Kacper Maj
 
-Opis:
+## Opis:
 <br>Projekt ten polegał na implementacji algorytmu rozwiązującego następujące zadanie:
 <br>Mamy macierz prostokątną o wymiarach 4𝑥𝑁 (𝑁∈ ℕ). Każdy z jej elementów jest liczbą całkowitą. Oprócz niej dostępnych jest 𝑚 kart. Za pomocą nich można zakryć komórki macierzy, przy czym dwa zakryte elementy nie mogą być obok siebie (zarówno w pionie, jak i w poziomie). Zadanie polega na zakryciu komórek tak, żeby suma pozostałych elementów była jak największa. Nie ma przymusu wykorzystywania wszystkich kart.
 <br>Do rozwiązania został wykorzystany algorytm A*.
